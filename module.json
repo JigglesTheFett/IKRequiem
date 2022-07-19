@@ -1,0 +1,229 @@
+{
+  "name": "iron-kingdoms-requiem",
+  "title": "Iron Kingdoms: Requiem",
+  "description": "Compendium content from Iron Kingdoms: Requiem 5e Books",
+  "author": "JigglesExMachina",
+  "authors": [
+    {
+      "name": "PaperMonkeyLord"
+    },
+    {
+      "name": "Iron Warjack"
+    },
+	{
+	  "name": "JigglesExMachina"
+	}],
+  "version": "0.8",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "scripts": ["scripts/iron-kingdoms-wp.js"],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Backgrounds (IK:R)",
+      "type": "Item",
+      "name": "backgrounds",
+      "path": "packs/backgrounds-ikr.db",
+      "system": "dnd5e",
+	  "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    },
+    {
+      "label": "Classes (IK:R)",
+      "type": "Item",
+      "name": "classes",
+      "path": "packs/classes-ikr.db",
+      "system": "dnd5e",
+	  "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    },
+    {
+      "label": "Class Features (IK:R)",
+      "type": "Item",
+      "name": "class-features",
+      "path": "packs/class-features-ikr.db",
+      "system": "dnd5e",
+	  "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    },
+    {
+      "label": "Critical Damage (IK:R)",
+      "type": "Item",
+      "name": "critical-damage",
+      "path": "packs/critical-damage-ikr.db",
+      "system": "dnd5e",
+	  "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    },
+    {
+      "label": "Essences (IK:R)",
+      "type": "Item",
+      "name": "essences",
+      "path": "packs/essences-ikr.db",
+      "system": "dnd5e",
+	  "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    },
+    {
+      "label": "Feats (IK:R)",
+      "type": "Item",
+      "name": "feats",
+      "path": "packs/feats-ikr.db",
+      "system": "dnd5e",
+	  "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    },
+    {
+      "label": "Items (IK:R)",
+      "type": "Item",
+      "name": "items",
+      "path": "packs/items-ikr.db",
+      "system": "dnd5e",
+	  "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    },
+    {
+      "label": "Monsters (IK:R)",
+      "type": "Actor",
+      "name": "monsters",
+      "path": "packs/monsters-ikr.db",
+      "system": "dnd5e",
+	  "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    },
+    {
+      "label": "Generic NPCs (IK:R)",
+      "type": "Actor",
+      "name": "generic-npcs",
+      "path": "packs/generic-npcs-ikr.db",
+      "system": "dnd5e",
+	  "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    },
+    {
+      "label": "NPCs (IK:R)",
+      "type": "Actor",
+      "name": "npcs",
+      "path": "packs/npcs-ikr.db",
+      "system": "dnd5e",
+	  "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    },
+	{
+      "label": "Random Encounter Tables (IK:R)",
+      "type": "RollTable",
+      "name": "random-encounter-tables",
+      "path": "packs/random-encounter-tables-ikr.db",
+      "system": "dnd5e",
+	  "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    },
+    {
+      "label": "Races (IK:R)",
+      "type": "Item",
+      "name": "races",
+      "path": "packs/races-ikr.db",
+      "system": "dnd5e",
+      "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    },
+    {
+      "label": "Rules (IK:R)",
+      "type": "JournalEntry",
+      "name": "rules",
+      "path": "packs/rules-ikr.db",
+      "system": "dnd5e",
+	  "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    },
+    {
+      "label": "Spells (IK:R)",
+      "type": "Item",
+      "name": "spells",
+      "path": "packs/spells-ikr.db",
+      "system": "dnd5e",
+	  "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    },
+    {
+      "label": "Steamjacks (IK:R)",
+      "type": "Actor",
+      "name": "steamjacks",
+      "path": "packs/steamjacks-ikr.db",
+      "system": "dnd5e",
+	  "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    },
+    {
+      "label": "Tables (IK:R)",
+      "type": "RollTable",
+      "name": "tables",
+      "path": "packs/tables-ikr.db",
+      "system": "dnd5e",
+	  "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    },
+	{
+      "label": "Random Encounter Tables (IK:R)",
+      "type": "RollTable",
+      "name": "random-encounter-tables",
+      "path": "packs/random-encounter-tables-ikr.db",
+      "system": "dnd5e",
+	  "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    },
+	{
+      "label": "Subclasses (IK:R)",
+      "type": "Items",
+      "name": "subclasses",
+      "path": "packs/subclasses-ikr.db",
+      "system": "dnd5e",
+	  "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    },
+	{
+      "label": "Adventuring Companies (IK:R)",
+      "type": "Items",
+      "name": "adventuring-companies",
+      "path": "packs/adventuring-companies-ikr.db",
+      "system": "dnd5e",
+	  "package": "world",
+      "module": "iron-kingdoms-requiem",
+      "private": false
+    }
+  ],
+  "system": ["dnd5e"],
+  "dependencies": [
+    {
+      "name": "dnd5e",
+      "type": "system"
+    }
+  ],
+  "socket": false,
+  "manifest": "https://github.com/JigglesTheFett/IKRPGCompendium/releases/download/0.8.1/module.json",
+  "download": "https://github.com/JigglesTheFett/IKRPGCompendium/releases/download/0.8.1/iron-kingdoms-requiem.zip",
+  "url": "https://github.com/JigglesTheFett/IKRPGCompendium/blob/main/readme.md",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}
